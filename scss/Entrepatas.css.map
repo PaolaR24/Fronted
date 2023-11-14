@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "https://www.google.com/maps/dir/''/Veterinaria+Entre+Patas,+Calle+14B+%23116-70,+Bloque+2,+Casa+7,+La+Estancia+2,+Bogot%C3%A1,+Cundinamarca+Calle+14B+%23116-70,+Bloque+2,+Casa+7,+La+Estancia+2,+Bogot%C3%A1,+Cundinamarca+Bogota+D.C,+Cundinamarca/@4.6793195,-74.1673775,17z/data=!4m13!4m12!1m5!1m1!1s0x8e3f9d808c4fa221:0xbd741aca510980fe!2m2!1d-74.1648026!2d4.6793195!1m5!1m1!1s0x8e3f9d808c4fa221:0xbd741aca510980fe!2m2!1d-74.1648026!2d4.6793195?entry=ttu",
+    "sources": [
+        "Entrepatas.scss"
+    ],
+    "names": [],
+    "file": "Entrepatas.css"
+}
